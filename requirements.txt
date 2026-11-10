@@ -1,20 +1,13 @@
-# ВИРТУАЛЬНЫЙ БРАУЗЕР
 playwright>=1.40.0
 fake-useragent>=1.4.0
-
-# АЛГОРИТМЫ ПАРСИНГА
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
-
-# ИИ-ОЦЕНЩИК (Оптимизация под 4GB VRAM)
 transformers>=4.35.0
 torch>=2.1.0
 accelerate>=0.24.0
 bitsandbytes>=0.41.0
 sentence-transformers>=2.2.0
-
-# ХРАНЕНИЕ И УТИЛИТЫ
 pandas>=2.1.0
 python-dotenv>=1.0.0
 tqdm>=4.66.0
